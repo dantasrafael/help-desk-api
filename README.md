@@ -1,2 +1,2 @@
 # help-desk-api
-Api do sistema de Help Desk com Java + Spring Boot + Angular 5
+Api do sistema de Help Desk com MongoDB + Java Spring Boot + Angular 5
